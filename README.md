@@ -32,7 +32,7 @@ I build, I debug, I deploy — silently, efficiently, like the Bat.
 
 ## 🕶️ Connect with Me in the Shadows
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-darkblue?logo=linkedin)](https://linkedin.com/in/Yash)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darkblue?logo=linkedin)](https://www.linkedin.com/in/yash-raj-26a275369/) 
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/Yash)
 
 ---
