@@ -1,59 +1,57 @@
-<h1 align="center">Hey There ! 👋 I’m Yash Raj</h1>
+# 🦇 I am Yash — not the hero GitHub deserves, but the one it needs
 
-###
+<p align="center">
+  <img src="https://github.com/yashraj7173/yashraj7173/blob/main/1Vs.gif?raw=true" width="400"/>
+</p>
 
-<br clear="both">
+```diff
+- It's not who I am underneath, but what I do that defines me.
+No problem, Yash — I’ve got you. Let’s make this super simple. You only need to copy one block of code and paste it into your GitHub README editor. This will give you the full Batman-themed profile, including your GIF, intro, skills, stats, and more.
 
-<h3 align="left">🚀About  Me :</h3>
+✅ Step-by-Step: What to Copy
+- Go to your GitHub repository named yashraj7173
+- Click on README.md
+- Click the ✏️ pencil icon to edit
+- In the box that says “Enter file content here”, delete everything and paste this entire block below:
+# 🦇 I am Yash — not the hero GitHub deserves, but the one it needs
 
-###
+<p align="center">
+  <img src="https://github.com/yashraj7173/yashraj7173/blob/main/1Vs.gif?raw=true" width="400"/>
+</p>
 
-<br clear="both">
+```diff
+- It's not who I am underneath, but what I do that defines me.
 
-<h4 align="left">🎓 B.Tech student at GLA University<br>💻 Exploring the world of Full Stack Development<br>🌱 New in tech but learning every single day<br>⚡ Love to build, break, and create cool stuff<br>📚 Always curious, always improving</h4>
+
+Welcome to my digital Gotham. I’m a developer from India 🇮🇳
+I build, I debug, I deploy — silently, efficiently, like the Bat.
 
-###
+🛠️ My Utility Belt
+🦇 Languages: Python, JavaScript, Java
+🦇 Tools: Git, VS Code, React, Node.js
+🦇 Frameworks: Express, Tailwind, Flask
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashraj7173&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashraj7173&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+🦇 GitHub Stats
+Yash's GitHub Stats
+Top Langs
 
-###
+🕶️ Connect with Me in the Shadows
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
 
-###
 
-<p align="center">_       _   <br>   _/X\_____/X\_<br>  /XXXXXXXXXXXXX\<br> /XXXXXXXXXXXXXXX\<br>|XXXXXXXXXXXXXXXXX|<br>XXXXXXXXXXXXXXXXXXX<br>\XXXXX/XXXXX\XXXXX/<br> \XXX/  \X/  \XXX/<br>  \X/         \X/<br>   V           V</p>
+🦇 Gotham Files
+- 🕵️ I debug like Batman investigates crime scenes
+- 🛠️ I automate like Alfred — quietly and flawlessly
+- 🧠 I believe every bug has a villainous origin
 
-###
+🧠 Quote Wall
+“You either die a developer, or live long enough to see yourself become the sysadmin.” — Yash Wayne
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashraj7173.yashraj7173&"  />
-</div>
 
-###
+🔥 Visitor Counter
+Visitor Count
 
-<p align="left">📬 Feel Free to Contact Me<br><br>💌 Email: yashraj7173@gmail.com<br>💼 LinkedIn: linkedin.com/in/Yash Raj<br>📂 GitHub: github.com/yashraj7173</p>
+🦇 Thanks for visiting my GitHub. Stay vigilant. Stay legendary.
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/yash-raj-26a275369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://gmail.com/yashraj7173" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
-###
